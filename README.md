@@ -4,6 +4,6 @@
 [![Linkedin Badge](https://img.shields.io/badge/-LinkedIn-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/lucas-lopes-565a5b138/)](https://www.linkedin.com/in/lucas-lopes-565a5b138/)
 
 ### Sobre
-Eu sou formado em Análise e Desenvolvimento de Sistemas pelo Centro de Ensino Superior de Maringa LTDA | Unicesumar. Atualmente estou cursando uma pós graduação MBA | Desenvolvimento Fullstack no Instituto de Gestao e Tecnologia da Informacao Ltda | IGTI.
+Eu sou formado em Análise e Desenvolvimento de Sistemas pelo Centro de Ensino Superior de Maringa LTDA | Unicesumar. Pós graduado em MBA | Desenvolvimento Fullstack no Instituto de Gestao e Tecnologia da Informacao Ltda | IGTI (XPE Educação).
 
 - [Website](https://lukecode.netlify.app/) 💻 - Em desenvolvimento.
