@@ -8,4 +8,4 @@ Eu sou formado em Análise e Desenvolvimento de Sistemas pelo Centro de Ensino S
 
 Pós graduado em MBA | Desenvolvimento Fullstack no Instituto de Gestao e Tecnologia da Informacao Ltda | IGTI (XPE Educação).
 
-- [Website](https://lucaslopesdev-portfolio.netlify.app/) 💻 - Em desenvolvimento.
+- [Website](https://lucaslopesdev-portfolio.netlify.app/) 💻 - Em desenvolvimento (90% Completo)
